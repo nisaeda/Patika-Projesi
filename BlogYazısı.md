@@ -2,9 +2,10 @@ patika linki : https://app.patika.dev/nisaeda
 ## Son yılların favorisi, fikri olanların da fikri olduğunu sananların da dilinden düşürmediği ama dönemin parlayan yıldızı ve geleceğe en iyi yatırım olmasıyla herkesi ortak düşüncede birleştiren Veri Biliminden bahsedeceğim sizlere.
 # Nedir bu veri bilimi?
 Veri bilimi, iş için anlamlı öngörüler ayıklamak amacıyla veriler üzerinde gerçekleştirilen çalışmaların adıdır. Büyük miktardaki verileri analiz etmek için matematik, istatistik, yapay zeka ve veri analizi uygulamalarını bir araya getiren, disiplinler arası bir yaklaşımdır. Bu analiz, veri bilimcilerin ne oldu, neden oldu, ne olacak ve sonuçlarla neler yapılabilir sorularını sormasına ve cevaplamasına yardımcı olur. 
-# Peki Veri bilimi neden birden son dönemlerin gözbebeği oldu?
+# Peki Veri bilimi neden bir anda son dönemlerin gözbebeği oldu?
 Veri bilimi, yapay zeka ve makine öğrenimi alanlarındaki gelişmeler veri işlemleme süreçlerini çok daha hızlı ve verimli bir hale dönüştürdü. İş dünyasının talebi ve ihtiyaçları doğrultusunda veri bilimi alanı kendi içerisinde özel eğitimleri, sertifikaları ve iş alanlarını barındıran bir ekosistem oluşturdu. Veri biliminin geleceğine yönelik öngörüler, alanın kaçınılmaz bir şekilde büyüyeceğine ve bu alandaki uzmanlıklara yoğun bir şekilde talep olacağı yönündedir.
-## Şimdi de birçok kişinin ayrımını yapmakta zorlandığını düşündüğüm, hatta bir arada görünce ya da sorulunca anlık bildiklerinden şüpheye düştüklerine emin olduğum bir konuyu aydınlatmak istiyorum. Veri bilimi, yapay zeka ve makine öğrenimi… Hepsi aynı şey değil miydi sanki ya?
+## Şimdi de birçok kişinin ayrımını yapmakta zorlandığını düşündüğüm, hatta bir arada görünce ya da sorulunca anlık bildiklerinden şüpheye düştüklerine emin olduğum bir konuyu aydınlatmak istiyorum.
+## Veri bilimi, yapay zeka ve makine öğrenimi… Hepsi aynı şey değil miydi sanki ya?
 Veri bilimini ve ondan nasıl yararlanacağınızı daha iyi anlamak için yapay zeka ve makine öğrenimi gibi bu alanla ilgili diğer kavramları bilmek bir o kadar önemlidir. Çoğu zaman bu terimlerin birbirinin yerine kullanıldığını göreceksiniz, ancak bazı farklar vardır.
 Yapay zekâ; bilgisayarın insan davranışını bir biçimde taklit etmesini sağlamak anlamına gelir.
 Veri bilimi; yapay zekanın bir alt kümesidir. Daha çok istatistik, bilimsel yöntemler ve veri analizinin örtüşen alanlarını ifade eder. Bunların tümü verilerden anlam çıkarmak ve içgörü elde etmek için kullanılır.
